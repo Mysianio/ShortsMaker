@@ -1,0 +1,22 @@
+.Player__container {
+    position: relative;
+}
+
+.PlayerControl__container {
+    width: 100%;
+    margin-bottom: 20px;
+    position: absolute;
+    bottom: 0;
+}
+
+.PlayerControl__button {
+    width: 60px;
+    height: 40px;
+    border: none;
+    background: #fff;
+    margin: 5px;
+}
+
+.PlayerControl__timer {
+    color: #fff;
+}
